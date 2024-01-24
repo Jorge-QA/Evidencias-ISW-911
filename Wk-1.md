@@ -1,11 +1,12 @@
 # Semana 1
 
-El profesor hiza entrega del plan de estudio y el cronograma para el cuatrimestre.
+Primeramente el profesor hizo entrega del plan de estudio y el cronograma para el cuatrimestre donde se pudo observar las fechas de evaluación y los temas que estarémos desarrollando a lo largo del cuatrimestre.
 
-Se brindó mediante una presentación los conceptos bases que contempla la introducción a la minería de datos
+Por otra parte una vez concluida la entrega del cronograma y el plan, se observó una presentación de los temas relacionados con la minería de datos correspondiente a conceptos, tecnologías, y entre otras cosas explicaciones relevantes sobre el curso y sus conceptos; por ejemplo se habó de la que realmente significa la `minería de datos` y palabras clave como lo es el `datawarehouse`
 
 
-![Imagen](./images/Captura%20de%20pantalla%202024-01-23%20215401.png)
+
+![Imagen](./images/)
 
 ---
 
